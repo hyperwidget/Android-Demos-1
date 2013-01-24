@@ -1,4 +1,4 @@
-Android-Demos-1
+Android Demos 1
 ===============
 
 This is the first in a progressively more difficult series of demos 
